@@ -5,7 +5,7 @@ from playsound import playsound
 from time import sleep
 
 pygame.mixer.init()
-#playsound('song.mp3')
+playsound('song.mp3')
 
 if __name__ == "__main__":
     Car = 'Sound_Car.mp3'
